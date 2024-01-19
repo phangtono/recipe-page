@@ -26,8 +26,8 @@ My challenge is to build out this recipe page and get it looking as close to the
 
 ### Links
 
-- Solution URL: [recipe-page-code](https://your-solution-url.com)
-- Live Site URL: [recipe-page-live-site](https://your-live-site-url.com)
+- Solution URL: [recipe-page-code](https://github.com/phangtono/recipe-page)
+- Live Site URL: [recipe-page-live-site](https://courageous-cat-e432d3.netlify.app/)
 
 ## My process
 
@@ -91,4 +91,4 @@ td:nth-child(2) {
 - [How to create and style lists with HTML and CSS](https://www.youtube.com/watch?v=bRYwmmLC_Ns&t=1s) - This helped me custom style list in <ol>
 
 ## Author
-- Frontend Mentor - [@phangtono](https://www.frontendmentor.io/profile/phangtono)"# recipe-page" 
+- Frontend Mentor - [@phangtono](https://www.frontendmentor.io/profile/phangtono)
